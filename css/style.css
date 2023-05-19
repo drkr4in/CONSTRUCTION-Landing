@@ -186,6 +186,10 @@ a {
   width: 260px;
   align-items: center;
 }
+.reconstraction .media .media__social .media__el {
+  width: 20px;
+  height: 20px;
+}
 
 .activities {
   display: grid;

@@ -186,6 +186,10 @@ a {
       justify-content: space-between;
       width: 260px;
       align-items: center;
+      .media__el {
+        width: 20px;
+        height: 20px;
+      }
     }
   }
 }
